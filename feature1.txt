@@ -1,2 +1,3 @@
 hello to main
 devops initial commit
+everyone should learn devops in 2026
